@@ -1,0 +1,87 @@
+body{
+  overflow-x: hidden;
+}
+/*--- Navbar----*/
+.fa-github-alt {
+    color: #4099ff;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-google {
+    color: #e52d27;
+}
+
+.fa-twitter {
+    color: #f60;
+}
+
+.fa-linkedin {
+    color: #6441a5;
+}
+
+.fa {
+    -webkit-transition: 1s;
+    transition: 1s;
+    opacity: .7;
+}
+
+.fa:hover {
+    -webkit-transition: 1s;
+    transition: 1s;
+    opacity: 1;
+}
+nav div .container
+{
+  margin-top: 10px;
+}
+/*--- Navbar ends --- */
+input.text , input.date, select.status
+{
+  width: 90%;
+}
+form{
+  margin-top: 80px;
+}
+form label{
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 130%;
+  margin-top: 4px;
+  text-align: right
+}
+h2 {
+    line-height: .1em;
+    display: block;
+    width: 100%;
+    margin: 10px 0 20px;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    background: white;
+}
+
+h2 span {
+    padding: 0 10px;
+    background: #fff;
+}
+div.todos ul li{
+  list-style: none;
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+div.li{
+  margin-top: 5px;
+}
+strong{
+  padding-left: 6px;
+  padding-right: 6px;
+}
