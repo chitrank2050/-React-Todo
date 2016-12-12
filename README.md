@@ -1,4 +1,4 @@
-# -To-Do--app
+#-React-Todo
 A Todo app created on reactJs 
 
 #Description
@@ -9,7 +9,7 @@ A Todo app created on reactJs
   based on your progress.
   
 #Download
-    Download Zip or type git clone https://github.com/chitrank2050/-To-Do--app.git
+    Download Zip or type git clone https://github.com/chitrank2050/-React-Todo.git
     
 #Run
    you must have NODE and NPM installed on the system and present in PATH.
