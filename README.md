@@ -28,5 +28,5 @@ A Todo app created on reactJs
      ![4](https://cloud.githubusercontent.com/assets/13078364/20893394/9c686290-bb37-11e6-8bcc-557e2d2d0c60.png)
     
 #Find me 
-  http://chitrankagnihotri.com
+  https://chitrankagnihotri.herokuapp.com
 
